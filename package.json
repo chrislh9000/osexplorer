@@ -1,0 +1,17 @@
+{
+  "name": "opensea",
+  "version": "1.0.0",
+  "description": "opensea interface",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Chemm",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^4.2.0",
+    "nodemon": "^2.0.15",
+    "opensea-js": "^1.2.8",
+    "web3": "^1.7.0"
+  }
+}
